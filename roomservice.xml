@@ -29,7 +29,7 @@
 
     <!-- Dependencies -->
     <project name="android_device_samsung_slsi_sepolicy"               path="device/samsung_slsi/sepolicy"            remote="dependencies"  revision="lineage-21.0" />
-    <project name="android_hardware_samsung"                           path="hardware/samsung"                        remote="dependencies"  revision="lineage-21.0" />
+    <project name="android_hardware_samsung"                           path="hardware/samsung"                        remote="dependencies"  revision="14" />
     <project name="android_hardware_samsung_slsi-linaro_graphics"      path="hardware/samsung_slsi-linaro/graphics"   remote="dependencies"  revision="lineage-21.0" />
     <project name="android_hardware_samsung_slsi-linaro_config"        path="hardware/samsung_slsi-linaro/config"     remote="dependencies"  revision="lineage-21.0" />
     <project name="android_hardware_samsung_slsi-linaro_exynos"        path="hardware/samsung_slsi-linaro/exynos"     remote="dependencies"  revision="lineage-21.0" />
