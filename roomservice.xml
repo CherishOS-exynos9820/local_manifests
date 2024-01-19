@@ -5,15 +5,15 @@
     <remote name="dependencies"    fetch="https://github.com/CherishOS-exynos9820"/>
 
     <!--Devices Trees-->
-    <project path="device/samsung/d2x" remote="github" name="CherishOS-exynos9820/android_device_samsung_d2x" revision="14" />
-    <project path="device/samsung/d2s" remote="github" name="CherishOS-exynos9820/android_device_samsung_d2s" revision="14" />
-    <project path="device/samsung/d1" remote="github" name="CherishOS-exynos9820/android_device_samsung_d1" revision="14" />
-    <project path="device/samsung/beyond2lte" remote="github" name="CherishOS-exynos9820/android_device_samsung_beyond2lte" revision="14" />
-    <project path="device/samsung/beyond1lte" remote="github" name="CherishOS-exynos9820/android_device_samsung_beyond1lte" revision="14" />
-    <project path="device/samsung/beyond0lte" remote="github" name="CherishOS-exynos9820/android_device_samsung_beyond0lte" revision="14" />
-    <project path="device/samsung/beyondx" remote="github" name="CherishOS-exynos9820/android_device_samsung_beyondx" revision="14" />
-    <project path="device/samsung/f62" remote="github" name="CherishOS-exynos9820/android_device_samsung_f62" revision="14" />
-    <project path="device/samsung/exynos9820-common" remote="github" name="CherishOS-exynos9820/android_device_samsung_exynos9820-common" revision="14" />
+    <project path="device/samsung/d2x" remote="github" name="CherishOS-exynos9820/android_device_samsung_d2x" revision="banana" />
+    <project path="device/samsung/d2s" remote="github" name="CherishOS-exynos9820/android_device_samsung_d2s" revision="banana" />
+    <project path="device/samsung/d1" remote="github" name="CherishOS-exynos9820/android_device_samsung_d1" revision="banana" />
+    <project path="device/samsung/beyond2lte" remote="github" name="CherishOS-exynos9820/android_device_samsung_beyond2lte" revision="banana" />
+    <project path="device/samsung/beyond1lte" remote="github" name="CherishOS-exynos9820/android_device_samsung_beyond1lte" revision="banana" />
+    <project path="device/samsung/beyond0lte" remote="github" name="CherishOS-exynos9820/android_device_samsung_beyond0lte" revision="banana" />
+    <project path="device/samsung/beyondx" remote="github" name="CherishOS-exynos9820/android_device_samsung_beyondx" revision="banana" />
+    <project path="device/samsung/f62" remote="github" name="CherishOS-exynos9820/android_device_samsung_f62" revision="banana" />
+    <project path="device/samsung/exynos9820-common" remote="github" name="CherishOS-exynos9820/android_device_samsung_exynos9820-common" revision="banana" />
 
     <!--Vendors Trees-->
     <project name="android_vendor_samsung_beyond0lte"        path="vendor/samsung/beyond0lte"        remote="dependencies"       revision="lineage-21.0" />
